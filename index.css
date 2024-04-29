@@ -24,7 +24,7 @@ footer {
 header,
 footer {
   text-align: center;
-  text-shadow: 1px 1.5px 12px rgba(0, 0, 0, 0.8);
+  text-shadow: 2px 4px 12px rgba(0, 0, 0, 0.8);
   padding: 10px 5px;
 }
 header {
@@ -47,7 +47,7 @@ footer {
   justify-content: center;
   align-items: center;
   min-width: 95%;
-  background-color: hsla(256, 9%, 51%, 0.9);
+  background-color: hsla(256, 9%, 51%, 0.6);
   padding: 60px 20px;
   border: none;
   outline: none;
